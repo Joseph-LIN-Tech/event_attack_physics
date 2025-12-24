@@ -65,6 +65,9 @@ python train.py
 
 2. Please update the data paths 'data_simu_pose' and 'labeled_simu_pose' in Options/train.yaml to the corresponding local directories on your machine.
 
+---
+
+
 ## Acknowledgement
 
 Some of our code is based on the implementation of [LETGAN](https://github.com/iCVTEAM/LETGAN/tree/master), and [RVT](https://github.com/uzh-rpg/RVT).
