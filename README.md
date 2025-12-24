@@ -80,12 +80,9 @@ Some of our code is based on the implementation of [LETGAN](https://github.com/i
 If you find this repository useful, please cite our paper:
 
 @inproceedings{lin2025adversarial,
-  title={Adversarial Attacks on Event-Based Pedestrian Detectors: A Physical Approach},
-  author={Lin, Guixu and Niu, Muyao and Zhu, Qingtian and Yin, Zhengwei and Li, Zhuoxiao and He, Shengfeng and Zheng, Yinqiang},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39},
-  number={5},
-  pages={5227--5235},
+  title={Adversarial Attacks on Event-Based Pedestrian Detectors: A Physical Approach},\
+  author={Lin, Guixu and Niu, Muyao and Zhu, Qingtian and Yin, Zhengwei and Li, Zhuoxiao and He, Shengfeng and Zheng, Yinqiang}, \
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, \
   year={2025}
 }
 
