@@ -1,0 +1,329 @@
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.downsample_cf2cl.conv.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.downsample_cf2cl.norm.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.downsample_cf2cl.norm.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.norm2.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.norm2.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_window.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.norm1.weight] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.norm1.bias] will not optimize.
+2025-12-24 11:43:48,717 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.norm2.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.norm2.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.att_blocks.0.att_grid.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.lstm.conv1x1.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.0.lstm.conv1x1.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.downsample_cf2cl.conv.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.downsample_cf2cl.norm.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.downsample_cf2cl.norm.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.norm2.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.norm2.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_window.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.norm1.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.norm1.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.norm2.weight] will not optimize.
+2025-12-24 11:43:48,718 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.norm2.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.att_blocks.0.att_grid.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.lstm.conv1x1.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.1.lstm.conv1x1.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.downsample_cf2cl.conv.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.downsample_cf2cl.norm.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.downsample_cf2cl.norm.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.norm2.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.norm2.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_window.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.norm1.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.norm1.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.norm2.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.norm2.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.att_blocks.0.att_grid.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.lstm.conv1x1.weight] will not optimize.
+2025-12-24 11:43:48,719 - WARNING - Params [rvt_model.mdl.backbone.stages.2.lstm.conv1x1.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.downsample_cf2cl.conv.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.downsample_cf2cl.norm.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.downsample_cf2cl.norm.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.norm2.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.norm2.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_window.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.norm1.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.norm1.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.self_attn.qkv.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.self_attn.qkv.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.self_attn.proj.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.self_attn.proj.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.ls1.gamma] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.norm2.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.norm2.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.mlp.net.0.0.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.mlp.net.0.0.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.mlp.net.2.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.mlp.net.2.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.att_blocks.0.att_grid.ls2.gamma] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.lstm.conv1x1.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.backbone.stages.3.lstm.conv1x1.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.lateral_conv0.conv.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.lateral_conv0.bn.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.lateral_conv0.bn.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,720 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv3.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv3.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.conv3.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.0.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.0.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.0.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.0.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.0.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.0.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.1.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.1.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.1.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.1.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.1.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p4.m.1.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.reduce_conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.reduce_conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.reduce_conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv3.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv3.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.conv3.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.0.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.0.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.0.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.0.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.0.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.0.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.1.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.1.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,721 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.1.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.1.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.1.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_p3.m.1.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.bu_conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.bu_conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.bu_conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv3.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv3.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.conv3.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.0.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.0.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.0.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.0.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.0.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.0.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.1.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.1.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.1.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.1.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.1.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n3.m.1.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.bu_conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.bu_conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.bu_conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv3.conv.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv3.bn.weight] will not optimize.
+2025-12-24 11:43:48,722 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.conv3.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.0.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.0.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.0.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.0.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.0.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.0.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.1.conv1.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.1.conv1.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.1.conv1.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.1.conv2.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.1.conv2.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.fpn.C3_n4.m.1.conv2.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.0.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.0.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.0.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.0.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.0.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.0.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.1.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.1.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.1.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.1.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.1.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.1.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.2.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.2.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.2.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.2.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.2.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.cls_convs.2.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.0.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.0.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.0.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.0.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.0.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.0.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.1.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.1.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,723 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.1.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.1.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.1.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.1.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.2.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.2.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.2.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.2.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.2.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_convs.2.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.cls_preds.0.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.cls_preds.0.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.cls_preds.1.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.cls_preds.1.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.cls_preds.2.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.cls_preds.2.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_preds.0.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_preds.0.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_preds.1.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_preds.1.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_preds.2.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.reg_preds.2.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.obj_preds.0.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.obj_preds.0.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.obj_preds.1.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.obj_preds.1.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.obj_preds.2.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.obj_preds.2.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.0.conv.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.0.bn.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.0.bn.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.1.conv.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.1.bn.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.1.bn.bias] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.2.conv.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.2.bn.weight] will not optimize.
+2025-12-24 11:43:48,724 - WARNING - Params [rvt_model.mdl.yolox_head.stems.2.bn.bias] will not optimize.
+2025-12-24 11:43:48,725 - INFO - Model [attack_basic_model] is created.
+2025-12-24 11:43:48,726 - INFO - cell_size: 10 
+2025-12-24 11:44:20,854 - INFO - Number of train images: 3,683, iters: 3,683
+2025-12-24 11:44:20,854 - INFO - Total epochs needed: 4 for iters 11,500
+2025-12-24 11:44:33,072 - INFO - Number of val images in [cmu]: 999
+2025-12-24 11:45:02,006 - INFO -   epoch:  0, iter:      10, lr:(1.000e-04,)  loss: 7.7504e+02 loss_mean: 7.5380e+02 obj_conf: 5.9734e+01 cls_conf: 7.1531e+02 obj_mean: 7.2433e+01 cls_mean: 6.8137e+02 
+2025-12-24 11:45:24,901 - INFO -   epoch:  0, iter:      20, lr:(1.000e-04,)  loss: 7.2554e+02 loss_mean: 7.4904e+02 obj_conf: 5.0541e+01 cls_conf: 6.7499e+02 obj_mean: 6.8673e+01 cls_mean: 6.8037e+02 
+2025-12-24 11:45:49,363 - INFO -   epoch:  0, iter:      30, lr:(1.000e-04,)  loss: 6.4799e+02 loss_mean: 7.6520e+02 obj_conf: 6.4198e+01 cls_conf: 5.8379e+02 obj_mean: 7.1862e+01 cls_mean: 6.9333e+02 
+2025-12-24 11:46:11,415 - INFO -   epoch:  0, iter:      40, lr:(1.000e-04,)  loss: 6.9832e+02 loss_mean: 7.6170e+02 obj_conf: 9.4732e+01 cls_conf: 6.0359e+02 obj_mean: 7.0648e+01 cls_mean: 6.9106e+02 
+2025-12-24 11:46:35,831 - INFO -   epoch:  0, iter:      50, lr:(1.000e-04,)  loss: 1.0557e+03 loss_mean: 7.6436e+02 obj_conf: 1.0278e+02 cls_conf: 9.5292e+02 obj_mean: 7.0853e+01 cls_mean: 6.9351e+02 
+2025-12-24 11:47:00,491 - INFO -   epoch:  0, iter:      60, lr:(9.999e-05,)  loss: 8.0214e+02 loss_mean: 7.6745e+02 obj_conf: 5.7664e+01 cls_conf: 7.4448e+02 obj_mean: 6.9516e+01 cls_mean: 6.9793e+02 
+2025-12-24 11:47:26,401 - INFO -   epoch:  0, iter:      70, lr:(9.999e-05,)  loss: 8.4769e+02 loss_mean: 7.6559e+02 obj_conf: 7.4345e+01 cls_conf: 7.7335e+02 obj_mean: 6.9442e+01 cls_mean: 6.9615e+02 
+2025-12-24 11:47:48,225 - INFO -   epoch:  0, iter:      80, lr:(9.999e-05,)  loss: 6.9070e+02 loss_mean: 7.6386e+02 obj_conf: 6.2973e+01 cls_conf: 6.2773e+02 obj_mean: 6.8753e+01 cls_mean: 6.9511e+02 
+2025-12-24 11:48:11,665 - INFO -   epoch:  0, iter:      90, lr:(9.998e-05,)  loss: 6.9757e+02 loss_mean: 7.6042e+02 obj_conf: 8.6635e+01 cls_conf: 6.1093e+02 obj_mean: 6.9410e+01 cls_mean: 6.9101e+02 
+2025-12-24 11:48:33,829 - INFO -   epoch:  0, iter:     100, lr:(9.998e-05,)  loss: 7.4490e+02 loss_mean: 7.6039e+02 obj_conf: 7.2995e+01 cls_conf: 6.7190e+02 obj_mean: 6.9265e+01 cls_mean: 6.9113e+02 
+2025-12-24 11:48:58,433 - INFO -   epoch:  0, iter:     110, lr:(9.998e-05,)  loss: 6.2555e+02 loss_mean: 7.5839e+02 obj_conf: 5.4141e+01 cls_conf: 5.7141e+02 obj_mean: 6.8772e+01 cls_mean: 6.8961e+02 
+2025-12-24 11:49:22,611 - INFO -   epoch:  0, iter:     120, lr:(9.997e-05,)  loss: 6.6464e+02 loss_mean: 7.5265e+02 obj_conf: 5.5779e+01 cls_conf: 6.0887e+02 obj_mean: 6.8184e+01 cls_mean: 6.8446e+02 
+2025-12-24 11:49:45,950 - INFO -   epoch:  0, iter:     130, lr:(9.997e-05,)  loss: 5.6499e+02 loss_mean: 7.4991e+02 obj_conf: 5.4207e+01 cls_conf: 5.1079e+02 obj_mean: 6.7593e+01 cls_mean: 6.8232e+02 
+2025-12-24 11:50:07,042 - INFO -   epoch:  0, iter:     140, lr:(9.996e-05,)  loss: 6.6715e+02 loss_mean: 7.4759e+02 obj_conf: 5.7574e+01 cls_conf: 6.0958e+02 obj_mean: 6.6937e+01 cls_mean: 6.8065e+02 
+2025-12-24 11:50:31,096 - INFO -   epoch:  0, iter:     150, lr:(9.996e-05,)  loss: 6.1062e+02 loss_mean: 7.4792e+02 obj_conf: 5.0397e+01 cls_conf: 5.6023e+02 obj_mean: 6.6777e+01 cls_mean: 6.8115e+02 
+2025-12-24 11:50:54,781 - INFO -   epoch:  0, iter:     160, lr:(9.995e-05,)  loss: 6.7588e+02 loss_mean: 7.4991e+02 obj_conf: 4.8272e+01 cls_conf: 6.2761e+02 obj_mean: 6.6368e+01 cls_mean: 6.8355e+02 
+2025-12-24 11:51:17,883 - INFO -   epoch:  0, iter:     170, lr:(9.995e-05,)  loss: 6.5887e+02 loss_mean: 7.4606e+02 obj_conf: 5.5066e+01 cls_conf: 6.0380e+02 obj_mean: 6.6461e+01 cls_mean: 6.7960e+02 
+2025-12-24 11:51:39,692 - INFO -   epoch:  0, iter:     180, lr:(9.994e-05,)  loss: 7.7918e+02 loss_mean: 7.4651e+02 obj_conf: 7.3332e+01 cls_conf: 7.0585e+02 obj_mean: 6.6474e+01 cls_mean: 6.8004e+02 
+2025-12-24 11:52:00,994 - INFO -   epoch:  0, iter:     190, lr:(9.993e-05,)  loss: 8.0551e+02 loss_mean: 7.4517e+02 obj_conf: 6.5470e+01 cls_conf: 7.4004e+02 obj_mean: 6.6105e+01 cls_mean: 6.7906e+02 
+2025-12-24 11:52:24,731 - INFO -   epoch:  0, iter:     200, lr:(9.992e-05,)  loss: 7.3978e+02 loss_mean: 7.4222e+02 obj_conf: 4.8540e+01 cls_conf: 6.9124e+02 obj_mean: 6.5957e+01 cls_mean: 6.7626e+02 
+2025-12-24 11:52:47,046 - INFO -   epoch:  0, iter:     210, lr:(9.992e-05,)  loss: 8.8994e+02 loss_mean: 7.4504e+02 obj_conf: 5.9770e+01 cls_conf: 8.3017e+02 obj_mean: 6.6033e+01 cls_mean: 6.7900e+02 
+2025-12-24 11:53:09,010 - INFO -   epoch:  0, iter:     220, lr:(9.991e-05,)  loss: 7.2388e+02 loss_mean: 7.4131e+02 obj_conf: 5.4100e+01 cls_conf: 6.6978e+02 obj_mean: 6.5936e+01 cls_mean: 6.7538e+02 
+2025-12-24 11:53:33,901 - INFO -   epoch:  0, iter:     230, lr:(9.990e-05,)  loss: 7.3463e+02 loss_mean: 7.4120e+02 obj_conf: 6.9347e+01 cls_conf: 6.6528e+02 obj_mean: 6.6156e+01 cls_mean: 6.7504e+02 
+2025-12-24 11:54:00,471 - INFO -   epoch:  0, iter:     240, lr:(9.989e-05,)  loss: 5.8834e+02 loss_mean: 7.4084e+02 obj_conf: 5.6731e+01 cls_conf: 5.3161e+02 obj_mean: 6.6017e+01 cls_mean: 6.7482e+02 
+2025-12-24 11:54:22,576 - INFO -   epoch:  0, iter:     250, lr:(9.988e-05,)  loss: 8.3348e+02 loss_mean: 7.4093e+02 obj_conf: 4.6876e+01 cls_conf: 7.8660e+02 obj_mean: 6.5876e+01 cls_mean: 6.7506e+02 
+2025-12-24 11:54:46,955 - INFO -   epoch:  0, iter:     260, lr:(9.987e-05,)  loss: 8.4458e+02 loss_mean: 7.4145e+02 obj_conf: 6.8688e+01 cls_conf: 7.7589e+02 obj_mean: 6.5694e+01 cls_mean: 6.7576e+02 
+2025-12-24 11:55:09,855 - INFO -   epoch:  0, iter:     270, lr:(9.986e-05,)  loss: 7.6894e+02 loss_mean: 7.4109e+02 obj_conf: 5.1579e+01 cls_conf: 7.1737e+02 obj_mean: 6.5483e+01 cls_mean: 6.7561e+02 
+2025-12-24 11:55:33,582 - INFO -   epoch:  0, iter:     280, lr:(9.985e-05,)  loss: 9.8134e+02 loss_mean: 7.4098e+02 obj_conf: 4.3350e+01 cls_conf: 9.3799e+02 obj_mean: 6.5378e+01 cls_mean: 6.7560e+02 
+2025-12-24 11:55:56,907 - INFO -   epoch:  0, iter:     290, lr:(9.984e-05,)  loss: 4.8144e+02 loss_mean: 7.3979e+02 obj_conf: 5.7816e+01 cls_conf: 4.2363e+02 obj_mean: 6.5225e+01 cls_mean: 6.7456e+02 
+2025-12-24 11:56:22,427 - INFO -   epoch:  0, iter:     300, lr:(9.983e-05,)  loss: 5.9230e+02 loss_mean: 7.3815e+02 obj_conf: 7.0059e+01 cls_conf: 5.2224e+02 obj_mean: 6.5141e+01 cls_mean: 6.7301e+02 
+2025-12-24 11:56:47,321 - INFO -   epoch:  0, iter:     310, lr:(9.982e-05,)  loss: 6.3045e+02 loss_mean: 7.3807e+02 obj_conf: 5.9551e+01 cls_conf: 5.7090e+02 obj_mean: 6.5126e+01 cls_mean: 6.7294e+02 
+2025-12-24 11:57:11,639 - INFO -   epoch:  0, iter:     320, lr:(9.981e-05,)  loss: 6.9103e+02 loss_mean: 7.3556e+02 obj_conf: 6.9670e+01 cls_conf: 6.2136e+02 obj_mean: 6.5048e+01 cls_mean: 6.7051e+02 
+2025-12-24 11:57:37,882 - INFO -   epoch:  0, iter:     330, lr:(9.980e-05,)  loss: 8.0191e+02 loss_mean: 7.3493e+02 obj_conf: 4.9879e+01 cls_conf: 7.5203e+02 obj_mean: 6.4924e+01 cls_mean: 6.7001e+02 
+2025-12-24 11:58:02,142 - INFO -   epoch:  0, iter:     340, lr:(9.978e-05,)  loss: 7.8153e+02 loss_mean: 7.3514e+02 obj_conf: 6.0233e+01 cls_conf: 7.2130e+02 obj_mean: 6.4726e+01 cls_mean: 6.7041e+02 
+2025-12-24 11:58:23,736 - INFO -   epoch:  0, iter:     350, lr:(9.977e-05,)  loss: 7.1063e+02 loss_mean: 7.3578e+02 obj_conf: 5.8398e+01 cls_conf: 6.5223e+02 obj_mean: 6.4632e+01 cls_mean: 6.7114e+02 
+2025-12-24 11:58:46,453 - INFO -   epoch:  0, iter:     360, lr:(9.976e-05,)  loss: 6.5175e+02 loss_mean: 7.3487e+02 obj_conf: 7.5313e+01 cls_conf: 5.7643e+02 obj_mean: 6.4616e+01 cls_mean: 6.7026e+02 
+2025-12-24 11:59:10,478 - INFO -   epoch:  0, iter:     370, lr:(9.974e-05,)  loss: 7.9176e+02 loss_mean: 7.3429e+02 obj_conf: 4.7563e+01 cls_conf: 7.4419e+02 obj_mean: 6.4293e+01 cls_mean: 6.7000e+02 
+2025-12-24 11:59:34,741 - INFO -   epoch:  0, iter:     380, lr:(9.973e-05,)  loss: 6.9480e+02 loss_mean: 7.3307e+02 obj_conf: 5.4361e+01 cls_conf: 6.4044e+02 obj_mean: 6.4240e+01 cls_mean: 6.6883e+02 
+2025-12-24 12:00:00,752 - INFO -   epoch:  0, iter:     390, lr:(9.972e-05,)  loss: 8.6372e+02 loss_mean: 7.3282e+02 obj_conf: 6.4714e+01 cls_conf: 7.9901e+02 obj_mean: 6.4210e+01 cls_mean: 6.6861e+02 
+2025-12-24 12:00:28,285 - INFO -   epoch:  0, iter:     400, lr:(9.970e-05,)  loss: 6.7116e+02 loss_mean: 7.3129e+02 obj_conf: 6.1929e+01 cls_conf: 6.0924e+02 obj_mean: 6.4182e+01 cls_mean: 6.6711e+02 
+2025-12-24 12:00:51,517 - INFO -   epoch:  0, iter:     410, lr:(9.969e-05,)  loss: 6.9981e+02 loss_mean: 7.3119e+02 obj_conf: 5.1590e+01 cls_conf: 6.4822e+02 obj_mean: 6.4082e+01 cls_mean: 6.6711e+02 

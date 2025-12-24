@@ -1,0 +1,1 @@
+Epoch	Loss-d-f		Loss-d-r		grad-pena		Loss-g		LearnRate-d		LearnRate-gEpoch	Loss-d-f		Loss-d-r		grad-pena		Loss-g		LearnRate-d		LearnRate-gEpoch	Loss-d-f		Loss-d-r		grad-pena		Loss-g		LearnRate-d		LearnRate-gEpoch	Loss-d-f		Loss-d-r		grad-pena		Loss-g		LearnRate-d		LearnRate-g

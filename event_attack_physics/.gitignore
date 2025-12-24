@@ -1,0 +1,16 @@
+# 忽略所有的缓存文件
+__pycache__/
+*.pyc
+
+# 忽略特定的 IDE 配置文件
+.vscode/
+
+# 忽略所有 PNG 文件（如果不需要跟踪）
+*.png
+
+*.pth
+*G.pth
+*.state
+
+# 其他需要忽略的文件或目录
+checkpoints/
