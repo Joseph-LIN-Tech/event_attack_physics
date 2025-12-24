@@ -4,9 +4,9 @@ Official implementation of **“Adversarial Attacks on Event-Based Pedestrian De
 
 ---
 
-## Download Checkpoints
+## Download Checkpoints and Datasets.
 
-Checkpoints are available via Google Drive:
+#### Checkpoints:
 
 - Google Drive: https://drive.google.com/drive/folders/1X1fINjuOPxh_sM_1Sv8Tu3xVGbNF_WhO?usp=drive_link
 
@@ -23,6 +23,11 @@ event_attack_physics/
     ├── best.pth
     └── gen_rvt-b.ckpt
 ```
+---
+
+#### Digital Attack Dataset:
+
+-- Google Drive: https://drive.google.com/drive/folders/1wYwMbDzgdrcFD1I3W0i9_qzQo0w0dJnJ?usp=sharing
 
 ---
 
