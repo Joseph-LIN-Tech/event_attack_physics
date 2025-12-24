@@ -123,7 +123,7 @@ datasets:
 
 
 path:
-  pretrain_model_G: output/saved_checkpoints/best.pth
+  pretrain_model_G: checkpoints/best.pth
   #pretrain_model_G: ~ #output/saved_checkpoints/530000_G.pth  #~ #lgx
   strict_load: true #true 
   resume_state: ~ #output/saved_checkpoints/11500.state #~ #lgx

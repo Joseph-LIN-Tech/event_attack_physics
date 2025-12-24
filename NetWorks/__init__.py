@@ -3,7 +3,7 @@ import torch
 from Debug.functional import showMessage, outputMapWrite
 import os
 
-# NETsDIRECTORY = {'discriminator' : DiscriminatorNet, 'generator' : Simulator}
+#NETsDIRECTORY = {'generator' : Simulator}
 
 def loadParameter(args, model):
     new_params = model.state_dict()

@@ -41,7 +41,9 @@ def main(args,config):
     rank = -1
     # config logger
     current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
+    os.makedirs("output/experiment",exist_ok=True)
     log_filename = f'output/experiment/training_{current_time}.log'
+    
     logging.basicConfig( level=logging.INFO, 
                         format='%(asctime)s - %(levelname)s - %(message)s',
                         handlers=[logging.FileHandler(log_filename), logging.StreamHandler()])
@@ -107,7 +109,7 @@ def main(args,config):
 
    
     model.validation(val_loader, current_step, tb_logger=None,save_img=args['val']['save_img'],metrics=val_metrics)
-    model.save(current_step)
+    #model.save(current_step)
     logs = model.get_current_log()
     message = "" 
     for v in model.get_current_learning_rate():

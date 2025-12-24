@@ -1,5 +1,4 @@
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '6'
 from NetWorks.modules.Attack_RVT import attack_rvt
 from Options.trainOptions import TrainOptions
 import hydra #import main
