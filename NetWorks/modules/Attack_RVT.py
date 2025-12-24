@@ -287,8 +287,9 @@ class attack_rvt(nn.Module):
         self.uv_texture = self.uv_texture[:,:,:H,:W]
         self.uv_texture_temp = self.uv_texture.permute(0, 2, 3, 1)
         self.uv_texture_temp = self.uv_texture_temp.repeat(1, 1, 1, 3)
-
-        self.save_img(self.uv_texture_temp[0]*255,os.path.join(self.output_rgb_path.replace("RGB",'imm'),f"before_mask_uv_texture.png"))
+        imm_path = self.output_rgb_path.replace("RGB",'imm')
+        os.makedirs(imm_path,exist_ok=True)
+        self.save_img(self.uv_texture_temp[0]*255,os.path.join(imm_path,f"before_mask_uv_texture.png"))
         self.uv_texture = self.vis_mask *self.uv_texture + (1- self.vis_mask)*self.white_image[:,:,:H,:W]
         
         self.vis_mask_temp = self.vis_mask.permute(0, 2, 3, 1)

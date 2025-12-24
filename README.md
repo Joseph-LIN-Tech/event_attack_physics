@@ -4,7 +4,7 @@ Official implementation of **“Adversarial Attacks on Event-Based Pedestrian De
 
 ---
 
-## Download Checkpoints and Datasets.
+## Download Checkpoints and Datasets
 
 #### Checkpoints:
 

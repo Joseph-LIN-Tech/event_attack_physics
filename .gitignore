@@ -6,7 +6,6 @@ __pycache__/
 .vscode/
 
 
-
 *.pth
 *G.pth
 *.state
