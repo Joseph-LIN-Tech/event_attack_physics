@@ -46,7 +46,7 @@ cd event_attack_physics
 python test.py
 ```
 
-1. The test process uses the default configuration files located under Options/: test.yaml 
+1. The test process uses the default configuration files located under Options/test.yaml 
 
 2. Please update the data paths 'data_simu_pose' and 'labeled_simu_pose' in Options/test.yaml to the corresponding local directories on your machine.
 
@@ -63,7 +63,7 @@ python test.py
 python train.py
 ```
 
-1. The training process uses the default configuration files located under Options/: train.yaml 
+1. The training process uses the default configuration files located under Options/train.yaml 
 
 2. Please update the data paths 'data_simu_pose' and 'labeled_simu_pose' in Options/train.yaml to the corresponding local directories on your machine.
 
