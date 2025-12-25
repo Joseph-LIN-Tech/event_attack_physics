@@ -12,8 +12,8 @@ Official implementation of **“Adversarial Attacks on Event-Based Pedestrian De
 
 Please place the following files under `checkpoints/`:
 
-- `best.pth`
-- `gen_rvt-b.ckpt`
+- `best.pth` -- checkpoint of our model
+- `gen_rvt-b.ckpt` -- checkpoint of the target detector [RVT](https://github.com/uzh-rpg/RVT)
 
 Example directory structure:
 
@@ -51,7 +51,9 @@ python test.py
 2. Please update the data paths 'data_simu_pose' and 'labeled_simu_pose' in Options/test.yaml to the corresponding local directories on your machine.
 
 
-3. You can set the metrics as 'seq_attack_success_rate' or 'AP' seperately to get the evaluation value in the paper.
+3. The confidence threshold of target detecor [RVT](https://github.com/uzh-rpg/RVT) is defined in the Options/rvt_config.yaml (line 107 "confidence_threshold")
+
+4. You can set the metrics as 'seq_attack_success_rate' or 'AP' seperately to get the evaluation value in the paper.
 
 ---
 
